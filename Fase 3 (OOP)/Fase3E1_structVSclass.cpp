@@ -8,11 +8,12 @@ class robot {
     int baterai;
 
     void casBaterai(){
-        if (baterai <= 80){
-            baterai = baterai + 20;
-            cout << "Bertambah 20% --> Menjadi: " << baterai << endl;
+        if (baterai > 80){
+            baterai = 100;
+            cout << "Baterai sudah penuh " << baterai << endl;
         } else {
-            cout << "Baterai sudah penuh 100%" << endl;
+            baterai = baterai + 20;
+            cout << "Baterai bertambah menjadi: " << baterai << endl;
         }
     }
 
@@ -34,8 +35,13 @@ int main (){
 
     robot1.bekerja();
     robot1.bekerja();
+    robot1.bekerja();
     robot1.casBaterai();
     robot1.casBaterai();
+    robot1.casBaterai();
+    robot1.casBaterai();
+    robot1.casBaterai();
+    robot1.bekerja();
     robot1.casBaterai();
     robot1.casBaterai();
     robot1.casBaterai();
