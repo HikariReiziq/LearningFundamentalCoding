@@ -1,0 +1,5 @@
+Nama: Hikar | NIM: 5027241079 | Jurusan: Teknologi Informasi
+Nama: Evan  | NIM: 5027241056 | Jurusan: Teknologi Informatika
+Nama: Angga | NIM: 5027241061 | Jurusan: Kedokteran
+Nama: Yazid | NIM: 5027241040 | Jurusan: Sistem Informasi
+Nama: Arya | NIM: 5027241036 | Jurusan: Data Science
