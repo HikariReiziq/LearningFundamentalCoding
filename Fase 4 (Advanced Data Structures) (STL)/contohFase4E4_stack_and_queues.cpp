@@ -24,6 +24,8 @@ int main(){
     }
 
     queue<string> antrian;
+    cout << "--- Mulai Menumpuk (FIFO) ---\n";
+
     antrian.push("Orang A");
     antrian.push("Orang B");
     antrian.push("Orang C");
