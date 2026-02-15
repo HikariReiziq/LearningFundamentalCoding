@@ -1,0 +1,12 @@
+INCOME|Bonus| - |900000
+INCOME|Gaji Pokok| - |100000
+EXPENSE|Beli paketan|Pulsa|35000
+INCOME|Dapat bonus| - |1000
+INCOME|Slot Gacor| - |500000
+INCOME|Gaji| - |400000
+INCOME|Tunjangan| - |200000
+EXPENSE|Ayam Geprek|Food|20000
+INCOME|Gaji Bulanan| - |5000000
+EXPENSE|Saham BCA|Investasi Saham|1000000
+EXPENSE|Makan di warung bu choy|Makan Siang|25000
+EXPENSE|beli di shell|bensin|10000
